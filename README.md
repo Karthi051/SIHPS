@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 20/05/2024
 ## Register Number: 212223230101
-## Name: Sabeeha Shaik
+## Name: K KARTHI KEYAN 
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
@@ -16,10 +16,12 @@ An E-waste Facility Locator tackles the challenge of responsible e-waste disposa
 
 
 ## Proposed Solution / Architecture Diagram
+```
 ![alt text](ewaste.png)
 
 ## Use Cases
 ![alt text](usecase.png)
+```
 
 ## Technology Stack
 
