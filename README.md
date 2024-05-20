@@ -16,12 +16,12 @@ An E-waste Facility Locator tackles the challenge of responsible e-waste disposa
 
 
 ## Proposed Solution / Architecture Diagram
-```
+
 ![alt text](ewaste.png)
 
 ## Use Cases
 ![alt text](usecase.png)
-```
+
 
 ## Technology Stack
 
